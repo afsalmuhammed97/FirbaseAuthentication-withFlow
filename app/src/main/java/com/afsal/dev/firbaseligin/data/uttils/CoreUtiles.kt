@@ -1,0 +1,1 @@
+package com.afsal.dev.firbaseligin.data.uttilsimport android.view.Viewimport com.google.android.material.snackbar.Snackbarobject CoreUtiles {    fun  showSnackBar( view:View,message:String){        Snackbar.make(view,message,Snackbar.LENGTH_SHORT).show()    }}

@@ -1,0 +1,1 @@
+package com.afsal.dev.firbaseligin.dataimport com.google.firebase.auth.FirebaseUserinterface AuthenticationRepository {    suspend fun logInUser(email:String, password:String):Resource<FirebaseUser>    suspend fun singUp(name:String, email: String, password: String):Resource<FirebaseUser>    fun logOut()    val currentUser:FirebaseUser?}

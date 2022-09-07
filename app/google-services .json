@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55424072036",
+    "project_id": "firbaseauthentications",
+    "storage_bucket": "firbaseauthentications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55424072036:android:9c41160b60cc8581e1a271",
+        "android_client_info": {
+          "package_name": "com.afsal.dev.firbaseligin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55424072036-b9loi48am9blg9bs2a3k7kvgq6363f9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxFY9VbkWD5MzXgiLixu-pKyvSaEXNeDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55424072036-b9loi48am9blg9bs2a3k7kvgq6363f9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
